@@ -1,8 +1,8 @@
 //object to hold key value pairs which form the fortune message
 const messages = {
-spirits: ['Christmas Past', 'Loki', 'Artemis', 'of your ancestor'],
-feeling: ['postive', 'nostalgic', 'empowered', 'generous' ],
-warning: ['Tread with caution', 'Take more time to think', 'Speak with family', 'Take the path less trodden']
+spirits: ['Christmas Past', 'Loki', 'Artemis', 'of your ancestor', 'Xena', 'your first pet'],
+feeling: ['postive', 'nostalgic', 'empowered', 'generous', 'lucky', 'overwhelmed'],
+warning: ['Tread with caution', 'Take more time to think', 'Speak with family', 'Take the path less trodden', 'Find a 4 leaf clover']
 };
 
 //Generate a random number based on the array length
